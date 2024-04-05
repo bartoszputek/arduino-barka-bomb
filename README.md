@@ -12,6 +12,8 @@ This project has been written as a part outdoor game. The purpose is to connect 
 
 ![Photo](./img/photo.png)
 
+![Video](./img/video.mp4)
+
 ## Credits
 * https://github.com/robsoncouto/arduino-songs - general structure of playing song function
 * https://prostenuty.pl/barka-proste-nuty - music notation
